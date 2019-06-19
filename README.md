@@ -1,8 +1,10 @@
 # hashKiller
 
 installing steps
-
-pip install -r hashKiller.txt
+1: $ git clone https://github.com/adrinowax5267/hashKiller
+2: $ cd  hashKiller
+3: $pip install -r hashKiller.txt
+4: $python hashKiller.py --help
 
 
 #usg
