@@ -20,3 +20,7 @@ optional arguments:
                         Specify a hash to crack
 
 Example:--->  python2 hashKiller.py --option md5 --hash 967ab7737cccb696be5fd243d32796b0
+
+
+
+tut----->https://www.youtube.com/watch?v=d-eSIdDIXxM&feature
